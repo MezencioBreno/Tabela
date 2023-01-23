@@ -2,9 +2,9 @@
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
-"<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
 
-###  💫Sobre mim:
+<align="center">###  💫Sobre mim:
 👨‍🎓 Sou Aluno de Gestão da Tecnologia da Informação
 
 ❤️ Eu amo Tecnologia
