@@ -1,3 +1,14 @@
+##  Alô Mundo 🌍
+
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%" >
+
+###  💫Sobre mim:
+👨‍🎓 Sou Aluno de Gestão da Tecnologia da Informação
+
+❤️ Eu amo Tecnologia
+
+🎵 Ouvir Música é amor ❤️
+
 ## Bem-vindo(a) ao perfil Breno Mezencio 😁
 
  <div>
