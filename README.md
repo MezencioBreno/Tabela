@@ -1,4 +1,4 @@
-<h1 align="center"> Bem-vindo(a) ao perfil Breno Mezencio 😁
+<h1 align="center"> Bem-vindo(a) ao perfil: Breno Mezencio 😁
 <div align="center">
    <div align="center"> 💫Sobre mim:
 👨‍🎓 <p>Sou Aluno de Gestão da Tecnologia da Informação</p>
